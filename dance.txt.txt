@@ -1,3 +1,4 @@
 up up down down left left right right b a b a 
 
 Got 30 life
+i want to add this.(Just for my research)
